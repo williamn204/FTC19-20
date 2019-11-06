@@ -6,9 +6,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 //Importing all FTC servos, motor, hardware map and time into this opmode. These packages are made by others and are
 // imported into this program. FTC has already defined it.
-/**
- * Created by dhruv on 11/30/2017.
- */
+
 
 public class SB_One_Person_Opmode {
     public DcMotor leftDrive = null;
